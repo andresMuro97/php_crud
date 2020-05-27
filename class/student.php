@@ -6,7 +6,7 @@ class Student
     session_start();
     $servername = "localhost";
     $dbname = "crud";
-    $username = "curduser";
+    $username = "cruduser";
     $password = "Contraseña7654/(%&/";
   
 
